@@ -114,6 +114,11 @@ body {
   background-repeat: no-repeat;
   margin: 1px;
 }
+.button {
+  background-color: grey;
+  text-align: left;
+  color: black;
+}
 
 .footer {
   padding: 5px;
